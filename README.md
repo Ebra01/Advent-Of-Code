@@ -10,3 +10,5 @@
 * [2023/Day 2 Part 2](2023/aoc-d2-p2)
 * [2023/Day 3 Part 1](2023/aoc-d3-p1)
 	* I wouldn't say I like this one, the solution contains a lot of code duplication, and there are better ways to solve it. But this is good for now!
+* [2023/Day 3 Part 2](2023/aoc-d3-p2)
+	* Similar issues with D3P1.
