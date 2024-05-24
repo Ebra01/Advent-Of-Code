@@ -14,3 +14,4 @@
 	* Similar issues with D3P1.
 * [2023/Day 4 Part 1](2023/aoc-d4-p1/src/main)
 * [2023/Day 4 Part 2](2023/aoc-d4-p2/src/main)
+* [2023/Day 5 Part 1](2023/aoc-d5-p1/src/main)
